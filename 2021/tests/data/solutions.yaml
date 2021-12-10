@@ -1,0 +1,20 @@
+solutions:
+
+    day1:
+        solution:
+            - larger1: '1532'
+            - larger2: '1571'
+
+    day2:
+        solution:
+            - horizontal_by_depth1: '1604850'
+            - horizontal_by_depth1: '1685186100'
+
+    day3:
+        solution:
+            - gamma_rate: '394'
+            - epsilon_rate: '3701'
+            - power_consumption: '1458194'
+            - o2_gen_rating: '789'
+            - co2_scrubber_rating: '3586'
+            - life_support_rating: '2829354'
