@@ -1,8 +1,19 @@
 # Advent of Code
 
-I will upload my aoc python3 solutions here.
+# 2021
 
-Inside a specific year folder, a test/ folder is placed, where you can find tests that check if the current days'
-solutions placed in year/src/retrieve the expected output. This allows anyone to modify the solution for any day and
-then run the test with pytest to check if it is correct(You have to read the documentation of the tests to avoid
-formatting problems).
+  Day  |       Part 1       |       Part 2        |  Day   |       Part 1       |       Part 2        
+:----- | :------------------| :-------------------| :----- | :------------------| :-------------------
+Day 01 | :heavy_check_mark: |  :heavy_check_mark: | Day 14 |                    |  
+Day 02 | :heavy_check_mark: |  :heavy_check_mark: | Day 15 |                    |  
+Day 03 | :heavy_check_mark: |  :heavy_check_mark: | Day 16 |                    |  
+Day 04 | :heavy_check_mark: |  :heavy_check_mark: | Day 17 |                    |  
+Day 05 | :heavy_check_mark: |  :heavy_check_mark: | Day 18 |                    |  
+Day 06 |                    |                     | Day 19 |                    |  
+Day 07 |                    |                     | Day 20 |                    |  
+Day 08 |                    |                     | Day 21 |                    |  
+Day 09 |                    |                     | Day 22 |                    |  
+Day 10 |                    |                     | Day 23 |                    |  
+Day 11 |                    |                     | Day 24 |                    |  
+Day 12 |                    |                     | Day 25 |                    |  
+Day 13 |                    |                     | 
